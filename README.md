@@ -18,4 +18,4 @@ Deeply passionate about AI and DevOps, I see myself as a future engineer in thes
 I thrive in collaborative environments and believe that innovation is born from diverse perspectives. Whether it's coding projects or NCC missions, I love working with others to achieve common goals.
 
 🌟 Open to New Opportunities:
-Currently pursuing my BCA, I'm open to opportunities that align with my passion for AI and DevOps. Let's connect and explore possibilities together!
+Currently pursuing my BCA, I'm open to opportunities that align with my passion for AI, Cloud Computing and DevOps. Let's connect and explore possibilities together!
