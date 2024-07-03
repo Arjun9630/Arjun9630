@@ -1,21 +1,15 @@
-About Me:
+# 💫 About Me:
+👋 Hello, I'm Arjun.P, a BCA student specializing in AI, Cloud Computing, and DevOps. 🚀<br><br>💡 Passionate Learner and Perfectionist: I'm not just a student; I'm on a journey of continuous learning and improvement. As a confident, muscular, and lean individual, I bring a perfectionist's mindset to my work. I thrive on challenges, always seeking opportunities to push my boundaries.<br><br>👨‍💻 Coding Enthusiast and Effective Communicator: My love for coding and programming goes hand in hand with my skills in presentation and communication. I believe in the power of effective communication and enjoy translating complex technical concepts into accessible ideas.<br><br>🌐 Adventurous Spirit and NCC Airwing Experience: Beyond the digital realm, I find adventure in every aspect of life. As a part of the Airwing NCC, I've embraced experiences ranging from camps to firing and flying training. These adventures have not only shaped my character but also instilled in me a spirit of leadership and resilience.<br><br>🚀 Aspiring AI and DevOps Engineer: Deeply passionate about AI and DevOps, I see myself as a future engineer in these domains. I take inspiration from my own journey, learning from mistakes, and valuing the core principle of self-improvement.<br><br>🤝 Collaboration and Innovation: I thrive in collaborative environments and believe that innovation is born from diverse perspectives. Whether it's coding projects or NCC missions, I love working with others to achieve common goals.<br><br>🌟 Open to New Opportunities: Currently pursuing my BCA, I'm open to opportunities that align with my passion for AI, Cloud Computing and DevOps. Let's connect and explore possibilities together!<br>
 
-👋 Hello, I'm Arjun.P, a BCA student specializing in AI, Cloud Computing, and DevOps. 🚀
 
-💡 Passionate Learner and Perfectionist:
-I'm not just a student; I'm on a journey of continuous learning and improvement. As a confident, muscular, and lean individual, I bring a perfectionist's mindset to my work. I thrive on challenges, always seeking opportunities to push my boundaries.
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/arjunp6362) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/arjunp6362) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/arjunp6362) 
 
-👨‍💻 Coding Enthusiast and Effective Communicator:
-My love for coding and programming goes hand in hand with my skills in presentation and communication. I believe in the power of effective communication and enjoy translating complex technical concepts into accessible ideas.
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Arjun9630&theme=aura&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Arjun9630&theme=aura&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Arjun9630&theme=aura&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-🌐 Adventurous Spirit and NCC Airwing Experience:
-Beyond the digital realm, I find adventure in every aspect of life. As a part of the Airwing NCC, I've embraced experiences ranging from camps to firing and flying training. These adventures have not only shaped my character but also instilled in me a spirit of leadership and resilience.
-
-🚀 Aspiring AI and DevOps Engineer:
-Deeply passionate about AI and DevOps, I see myself as a future engineer in these domains. I take inspiration from my own journey, learning from mistakes, and valuing the core principle of self-improvement.
-
-🤝 Collaboration and Innovation:
-I thrive in collaborative environments and believe that innovation is born from diverse perspectives. Whether it's coding projects or NCC missions, I love working with others to achieve common goals.
-
-🌟 Open to New Opportunities:
-Currently pursuing my BCA, I'm open to opportunities that align with my passion for AI, Cloud Computing and DevOps. Let's connect and explore possibilities together!
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
